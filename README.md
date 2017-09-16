@@ -1,2 +1,2 @@
-# ClassicalAlgorithm-Notes
-经典算法笔记
+# Algorithm-Notes
+算法笔记
